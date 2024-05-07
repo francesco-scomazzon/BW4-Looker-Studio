@@ -1,0 +1,668 @@
+id;Year;Edition;Film;Art director(s);Won;Interior decorator(s);Set decorator(s);Production designer(s)
+3;1927;1;7th Heaven;Harry Oliver;False;;;
+4;1927;1;Sunrise: A Song of Two Humans;Rochus Gliese;False;;;
+2;1927;1;Tempest;William Cameron Menzies;True;;;
+1;1927;1;The Dove;William Cameron Menzies;True;;;
+7;1928;2;Alibi;William Cameron Menzies;False;;;
+9;1928;2;Dynamite;Mitchell Leisen;False;;;
+11;1928;2;Street Angel;Harry Oliver;False;;;
+8;1928;2;The Awakening;William Cameron Menzies;False;;;
+6;1928;2;The Bridge of San Luis Rey;Cedric Gibbons;True;;;
+10;1928;2;The Patriot;Hans Dreier;False;;;
+14;1929;3;Bulldog Drummond;William Cameron Menzies;False;;;
+13;1929;3;King of Jazz;Herman Rosse;True;;;
+16;1929;3;Sally;Jack Okey;False;;;
+15;1929;3;The Love Parade;Hans Dreier;False;;;
+17;1929;3;The Vagabond King;Hans Dreier;False;;;
+19;1930;4;Cimarron;Max Rée;True;;;
+20;1930;4;Just Imagine;Stephen Goosson and Ralph Hammeras;False;;;
+21;1930;4;Morocco;Hans Dreier;False;;;
+22;1930;4;Svengali;Anton Grot;False;;;
+23;1930;4;Whoopee!;Richard Day;False;;;
+27;1931;5;À Nous la Liberté;Lazare Meerson;False;;;
+26;1931;5;Arrowsmith;Richard Day;False;;;
+25;1931;5;Transatlantic;Gordon Wiles;True;;;
+30;1932;6;A Farewell to Arms;Hans Dreier and Roland Anderson;False;;;
+29;1932;6;Cavalcade;William S. Darling;True;;;
+31;1932;6;When Ladies Meet;Cedric Gibbons;False;;;
+34;1934;7;The Affairs of Cellini;Richard Day;False;;;
+35;1934;7;The Gay Divorcee;Van Nest Polglase and Carroll Clark;False;;;
+33;1934;7;The Merry Widow;Cedric Gibbons and Fredric Hope;True;;;
+37;1935;8;The Dark Angel;Richard Day;True;;;
+38;1935;8;The Lives of a Bengal Lancer;Hans Dreier and Roland Anderson;False;;;
+39;1935;8;Top Hat;Carroll Clark and Van Nest Polglase;False;;;
+42;1936;9;Anthony Adverse;Anton Grot;False;;;
+41;1936;9;Dodsworth;Richard Day;True;;;
+44;1936;9;Lloyd's of London;William S. Darling;False;;;
+46;1936;9;Romeo and Juliet;Cedric Gibbons, Fredric Hope and Edwin B. Willis;False;;;
+43;1936;9;The Great Ziegfeld;Cedric Gibbons, Eddie Imazu and Edwin B. Willis;False;;;
+45;1936;9;The Magnificent Brute;Albert S. D'Agostino and Jack Otterson;False;;;
+47;1936;9;Winterset;Perry Ferguson;False;;;
+51;1937;10;A Damsel in Distress;Carroll Clark;False;;;
+50;1937;10;Conquest;Cedric Gibbons and William A. Horning;False;;;
+52;1937;10;Dead End;Richard Day;False;;;
+53;1937;10;Every Day's a Holiday;Wiard Ihnen;False;;;
+49;1937;10;Lost Horizon;Stephen Goosson;True;;;
+55;1937;10;Manhattan Merry-Go-Round;John Victor Mackay;False;;;
+57;1937;10;Souls at Sea;Hans Dreier and Roland Anderson;False;;;
+54;1937;10;The Life of Emile Zola;Anton Grot;False;;;
+56;1937;10;The Prisoner of Zenda;Lyle R. Wheeler;False;;;
+58;1937;10;Walter Wanger's Vogues of 1938;Alexander Toluboff;False;;;
+59;1937;10;Wee Willie Winkie;William S. Darling and David S. Hall;False;;;
+60;1937;10;You're a Sweetheart;Jack Otterson;False;;;
+64;1938;11;Alexander's Ragtime Band;Bernard Herzbrun and Boris Leven;False;;;
+65;1938;11;Algiers;Alexander Toluboff;False;;;
+66;1938;11;Carefree;Van Nest Polglase;False;;;
+68;1938;11;Holiday;Stephen Goosson and Lionel Banks;False;;;
+69;1938;11;If I Were King;Hans Dreier and John B. Goodman;False;;;
+70;1938;11;Mad About Music;Jack Otterson;False;;;
+71;1938;11;Marie Antoinette;Cedric Gibbons;False;;;
+72;1938;11;Merrily We Live;Charles D. Hall;False;;;
+62;1938;11;The Adventures of Robin Hood;Carl Jules Weyl;True;;;
+63;1938;11;The Adventures of Tom Sawyer;Lyle R. Wheeler;False;;;
+67;1938;11;The Goldwyn Follies;Richard Day;False;;;
+75;1939;12;Beau Geste;Hans Dreier and Robert Odell;False;;;
+76;1939;12;Captain Fury;Charles D. Hall;False;;;
+77;1939;12;First Love;Jack Otterson and Martin Obzina;False;;;
+74;1939;12;Gone with the Wind;Lyle R. Wheeler;True;;;
+78;1939;12;Love Affair;Van Nest Polglase and Alfred Herman;False;;;
+79;1939;12;Man of Conquest;John Victor Mackay;False;;;
+80;1939;12;Mr. Smith Goes to Washington;Lionel Banks;False;;;
+83;1939;12;Stagecoach;Alexander Toluboff;False;;;
+81;1939;12;The Private Lives of Elizabeth and Essex;Anton Grot;False;;;
+82;1939;12;The Rains Came;William S. Darling and George Dudley;False;;;
+84;1939;12;The Wizard of Oz;Cedric Gibbons and William A. Horning;False;;;
+85;1939;12;Wuthering Heights;James Basevi;False;;;
+88;1940;13;Arise, My Love;Hans Dreier and Robert Usher;False;;;
+89;1940;13;Arizona;Lionel Banks and Robert Peterson;False;;;
+102;1940;13;Bitter Sweet;Cedric Gibbons and John S. Detlie;False;;;
+86;1940;13;Black-and-White;Black-and-White;False;Black-and-White;;
+100;1940;13;Color;Color;False;Color;;
+91;1940;13;Dark Command;John Victor Mackay;False;;;
+103;1940;13;Down Argentine Way;Richard Day and Joseph C. Wright;False;;;
+92;1940;13;Foreign Correspondent;Alexander Golitzen;False;;;
+93;1940;13;Lillian Russell;Richard Day and Joseph C. Wright;False;;;
+94;1940;13;My Favorite Wife;Van Nest Polglase and Mark-Lee Kirk;False;;;
+95;1940;13;My Son, My Son!;John DuCasse Schulze;False;;;
+104;1940;13;North West Mounted Police;Hans Dreier and Roland Anderson;False;;;
+96;1940;13;Our Town;Lewis J. Rachmil;False;;;
+87;1940;13;Pride and Prejudice;Cedric Gibbons and Paul Groesse;True;;;
+97;1940;13;Rebecca;Lyle R. Wheeler;False;;;
+90;1940;13;The Boys from Syracuse;Jack Otterson;False;;;
+98;1940;13;The Sea Hawk;Anton Grot;False;;;
+101;1940;13;The Thief of Bagdad;Vincent Korda;True;;;
+99;1940;13;The Westerner;James Basevi;False;;;
+105;1941;14;Black-and-White;Black-and-White;False;Black-and-White;;
+119;1941;14;Blood and Sand;Richard Day and Joseph C. Wright;False;Thomas Little;;
+118;1941;14;Blossoms in the Dust;Cedric Gibbons and Urie McCleary;True;Edwin B. Willis;;
+107;1941;14;Citizen Kane;Perry Ferguson and Van Nest Polglase;False;A. Roland Fields and Darrell Silvera;;
+117;1941;14;Color;Color;False;Color;;
+109;1941;14;Hold Back the Dawn;Hans Dreier and Robert Usher;False;Samuel M. Comer;;
+106;1941;14;How Green Was My Valley;Richard Day and Nathan Juran;True;Thomas Little;;
+110;1941;14;Ladies in Retirement;Lionel Banks;False;George Montgomery;;
+120;1941;14;Louisiana Purchase;Raoul Pene Du Bois;False;Stephen Seymour;;
+112;1941;14;Sergeant York;John Hughes;False;Fred M. MacLean;;
+114;1941;14;Sundown;Alexander Golitzen;False;Richard Irvine;;
+115;1941;14;That Hamilton Woman;Vincent Korda;False;Julia Heron;;
+108;1941;14;The Flame of New Orleans;Martin Obzina and Jack Otterson;False;Russell A. Gausman;;
+111;1941;14;The Little Foxes;Stephen Goosson;False;Howard Bristol;;
+113;1941;14;The Son of Monte Cristo;John DuCasse Schulze;False;Edward G. Boyle;;
+116;1941;14;When Ladies Meet;Cedric Gibbons and Randall Duell;False;Edwin B. Willis;;
+134;1942;15;Arabian Nights;Alexander Golitzen and Jack Otterson;False;Russell A. Gausman and Ira S. Webb;;
+121;1942;15;Black-and-White;Black-and-White;False;Black-and-White;;
+135;1942;15;Captains of the Clouds;Ted Smith;False;Casey Roberts;;
+132;1942;15;Color;Color;False;Color;;
+123;1942;15;George Washington Slept Here;Max Parker and Mark-Lee Kirk;False;Casey Roberts;;
+136;1942;15;Jungle Book;Vincent Korda;False;Julia Heron;;
+133;1942;15;My Gal Sal;Richard Day and Joseph C. Wright;True;Thomas Little;;
+126;1942;15;Random Harvest;Cedric Gibbons and Randall Duell;False;Edwin B. Willis and Jack Moore;;
+137;1942;15;Reap the Wild Wind;Hans Dreier and Roland Anderson;False;George Sawley;;
+128;1942;15;Silver Queen;Ralph Berger;False;Emile Kuri;;
+130;1942;15;Take a Letter, Darling;Hans Dreier and Roland Anderson;False;Samuel M. Comer;;
+124;1942;15;The Magnificent Ambersons;Albert S. D'Agostino;False;A. Roland Fields and Darrell Silvera;;
+125;1942;15;The Pride of the Yankees;Perry Ferguson;False;Howard Bristol;;
+127;1942;15;The Shanghai Gesture;Boris Leven;False;Boris Leven;;
+129;1942;15;The Spoilers;John B. Goodman and Jack Otterson;False;Russell A. Gausman and Edward Ray Robinson;;
+131;1942;15;The Talk of the Town;Lionel Banks and Rudolph Sternad;False;Fay Babcock;;
+122;1942;15;This Above All;Richard Day and Joseph C. Wright;True;Thomas Little;;
+138;1943;16;Black-and-White;Black-and-White;False;Black-and-White;;
+145;1943;16;Color;Color;False;Color;;
+140;1943;16;Five Graves to Cairo;Hans Dreier and Ernst Fegté;False;Bertram C. Granger;;
+141;1943;16;Flight for Freedom;Albert S. D'Agostino and Carroll Clark;False;Darrell Silvera and Harley Miller;;
+147;1943;16;For Whom the Bell Tolls;Hans Dreier and Haldane Douglas;False;Bertram C. Granger;;
+142;1943;16;Madame Curie;Cedric Gibbons and Paul Groesse;False;Edwin B. Willis and Hugh Hunt;;
+143;1943;16;Mission to Moscow;Carl Jules Weyl;False;George James Hopkins;;
+146;1943;16;Phantom of the Opera;Alexander Golitzen and John B. Goodman;True;Russell A. Gausman and Ira S. Webb;;
+148;1943;16;The Gang's All Here;James Basevi and Joseph C. Wright;False;Thomas Little;;
+144;1943;16;The North Star;Perry Ferguson;False;Howard Bristol;;
+139;1943;16;The Song of Bernadette;James Basevi and William S. Darling;True;Thomas Little;;
+149;1943;16;This Is the Army;John Hughes;False;George James Hopkins;;
+150;1943;16;Thousands Cheer;Cedric Gibbons and Daniel Cathcart;False;Edwin B. Willis and Jacques Mersereau;;
+153;1944;17;Address Unknown;Lionel Banks and Walter Holscher;False;Joseph Kish;;
+151;1944;17;Black-and-White;Black-and-White;False;Black-and-White;;
+155;1944;17;Casanova Brown;Perry Ferguson;False;Julia Heron;;
+160;1944;17;Color;Color;False;Color;;
+163;1944;17;Cover Girl;Lionel Banks and Cary Odell;False;Fay Babcock;;
+152;1944;17;Gaslight;Cedric Gibbons and William Ferrari;True;Paul Huldschinsky and Edwin B. Willis;;
+165;1944;17;Kismet;Cedric Gibbons and Daniel B. Cathcart;False;Edwin B. Willis and Richard Pefferle;;
+166;1944;17;Lady in the Dark;Hans Dreier and Raoul Pene Du Bois;False;Ray Moyer;;
+156;1944;17;Laura;Lyle R. Wheeler and Leland Fuller;False;Thomas Little;;
+157;1944;17;No Time for Love;Hans Dreier and Robert Usher;False;Samuel M. Comer;;
+158;1944;17;Since You Went Away;Mark-Lee Kirk;False;Victor A. Gangelin;;
+159;1944;17;Step Lively;Albert S. D'Agostino and Carroll Clark;False;Darrell Silvera and Claude E. Carpenter;;
+154;1944;17;The Adventures of Mark Twain;John Hughes;False;Fred M. MacLean;;
+162;1944;17;The Climax;John B. Goodman and Alexander Golitzen;False;Russell A. Gausman and Ira S. Webb;;
+164;1944;17;The Desert Song;Charles Novi;False;Jack McConaghy;;
+167;1944;17;The Princess and the Pirate;Ernst Fegté;False;Howard Bristol;;
+161;1944;17;Wilson;Wiard Ihnen;True;Thomas Little;;
+179;1945;18;A Thousand and One Nights;Stephen Goosson and Rudolph Sternad;False;Frank Tuttle;;
+168;1945;18;Black-and-White;Black-and-White;False;Black-and-White;;
+169;1945;18;Blood on the Sun;Wiard Ihnen;True;A. Roland Fields;;
+174;1945;18;Color;Color;False;Color;;
+170;1945;18;Experiment Perilous;Albert S. D'Agostino and Jack Okey;False;Darrell Silvera and Claude E. Carpenter;;
+175;1945;18;Frenchman's Creek;Hans Dreier and Ernst Fegté;True;Samuel M. Comer;;
+176;1945;18;Leave Her to Heaven;Lyle R. Wheeler and Maurice Ransford;False;Thomas Little;;
+172;1945;18;Love Letters;Hans Dreier and Roland Anderson;False;Samuel M. Comer and Ray Moyer;;
+177;1945;18;National Velvet;Cedric Gibbons and Urie McCleary;False;Edwin B. Willis and Mildred Griffiths;;
+178;1945;18;San Antonio;Ted Smith;False;Jack McConaghy;;
+171;1945;18;The Keys of the Kingdom;James Basevi and William S. Darling;False;Thomas Little and Frank E. Hughes;;
+173;1945;18;The Picture of Dorian Gray;Cedric Gibbons and Hans Peters;False;Edwin B. Willis and John Bonar and Hugh Hunt;;
+181;1946;19;Anna and the King of Siam;William S. Darling and Lyle R. Wheeler;True;Thomas Little and Frank E. Hughes;;
+180;1946;19;Black-and-White;Black-and-White;False;Black-and-White;;
+186;1946;19;Caesar and Cleopatra;John Bryan;False;;;
+184;1946;19;Color;Color;False;Color;;
+187;1946;19;Henry V;Paul Sheriff and Carmen Dillon;False;;;
+182;1946;19;Kitty;Hans Dreier and Walter H. Tyler;False;Samuel M. Comer and Ray Moyer;;
+183;1946;19;The Razor's Edge;Richard Day and Nathan H. Juran;False;Thomas Little and Paul S. Fox;;
+185;1946;19;The Yearling;Cedric Gibbons and Paul Groesse;True;Edwin B. Willis;;
+192;1947;20;Black Narcissus;Alfred Junge;True;;;
+188;1947;20;Black-and-White;Black-and-White;False;Black-and-White;;
+191;1947;20;Color;Color;False;Color;;
+189;1947;20;Great Expectations;Wilfred Shingleton;True;John Bryan;;
+193;1947;20;Life with Father;Robert M. Haas;False;George James Hopkins;;
+190;1947;20;The Foxes of Harrow;Lyle R. Wheeler and Maurice Ransford;False;Thomas Little and Paul S. Fox;;
+194;1948;21;Black-and-White;Black-and-White;False;Black-and-White;;
+197;1948;21;Color;Color;False;Color;;
+195;1948;21;Hamlet;Roger K. Furse;True;Carmen Dillon;;
+199;1948;21;Joan of Arc;Richard Day;False;Edwin Casey Roberts and Joseph Kish;;
+196;1948;21;Johnny Belinda;Robert M. Haas;False;William O. Wallace;;
+198;1948;21;The Red Shoes;Hein Heckroth;True;Arthur Lawson;;
+206;1949;22;Adventures of Don Juan;Edward Carrere;False;Lyle Reifsnider;;
+200;1949;22;Black-and-White;Black-and-White;False;Black-and-White;;
+204;1949;22;Color;Color;False;Color;;
+202;1949;22;Come to the Stable;Lyle R. Wheeler and Joseph C. Wright;False;Thomas Little and Paul S. Fox;;
+205;1949;22;Little Women;Cedric Gibbons and Paul Groesse;True;Edwin B. Willis and Jack D. Moore;;
+203;1949;22;Madame Bovary;Cedric Gibbons and Jack Martin Smith;False;Edwin B. Willis and Richard A. Pefferle;;
+207;1949;22;Saraband;Jim Morahan and William Kellner;False;Michael Relph;;
+201;1949;22;The Heiress;Harry Horner and John Meehan;True;Emile Kuri;;
+210;1950;23;All About Eve;George W. Davis and Lyle R. Wheeler;False;;Thomas Little and Walter M. Scott;
+214;1950;23;Annie Get Your Gun;Cedric Gibbons and Paul Groesse;False;;Edwin B. Willis and Richard A. Pefferle;
+208;1950;23;Black-and-White;Black-and-White;False;;Black-and-White;
+212;1950;23;Color;Color;False;;Color;
+215;1950;23;Destination Moon;Ernst Fegté;False;;George Sawley;
+213;1950;23;Samson and Delilah;Hans Dreier and Walter H. Tyler;True;;Samuel M. Comer and Ray Moyer;
+209;1950;23;Sunset Boulevard;Hans Dreier and John Meehan;True;;Samuel M. Comer and Ray Moyer;
+211;1950;23;The Red Danube;Cedric Gibbons and Hans Peters;False;;Edwin B. Willis and Hugh Hunt;
+217;1951;24;A Streetcar Named Desire;Richard Day;True;;George James Hopkins;
+223;1951;24;An American in Paris;E. Preston Ames and Cedric Gibbons;True;;Edwin B. Willis and F. Keogh Gleason;
+216;1951;24;Black-and-White;Black-and-White;False;;Black-and-White;
+222;1951;24;Color;Color;False;;Color;
+224;1951;24;David and Bathsheba;George Davis and Lyle R. Wheeler;False;;Paul S. Fox and Thomas Little;
+218;1951;24;Fourteen Hours;Leland Fuller and Lyle R. Wheeler;False;;Thomas Little and Fred J. Rode;
+220;1951;24;La Ronde;D'Eaubonne;False;;;
+225;1951;24;On the Riviera;Leland Fuller, Lyle R. Wheeler and Joseph C. Wright (musical settings);False;;Thomas Little and Walter M. Scott;
+226;1951;24;Quo Vadis;Edward Carfagno, Cedric Gibbons and William A. Horning;False;;Hugh Hunt;
+219;1951;24;The House on Telegraph Hill;John DeCuir and Lyle R. Wheeler;False;;Paul S. Fox and Thomas Little;
+227;1951;24;The Tales of Hoffmann;Hein Heckroth;False;;;
+221;1951;24;Too Young to Kiss;Cedric Gibbons and Paul Groesse;False;;Edwin B. Willis and Jack D. Moore;
+228;1952;25;Black-and-White;Black-and-White;False;;Black-and-White;
+230;1952;25;Carrie;Roland Anderson and Hal Pereira;False;;Emile Kuri;
+234;1952;25;Color;Color;False;;Color;
+236;1952;25;Hans Christian Andersen;Clavé and Richard Day;False;;Howard Bristol;
+235;1952;25;Moulin Rouge;Paul Sheriff;True;;Marcel Vertès;
+231;1952;25;My Cousin Rachel;John DeCuir and Lyle R. Wheeler;False;;Walter M. Scott;
+232;1952;25;Rashomon;So Matsuyama;False;;H. Motsumoto;
+229;1952;25;The Bad and the Beautiful;Edward Carfagno and Cedric Gibbons;True;;F. Keogh Gleason and Edwin B. Willis;
+237;1952;25;The Merry Widow;Cedric Gibbons and Paul Groesse;False;;Arthur Krams and Edwin B. Willis;
+238;1952;25;The Quiet Man;Frank Hotaling;False;;John McCarthy Jr. and Charles S. Thompson;
+239;1952;25;The Snows of Kilimanjaro;John DeCuir and Lyle R. Wheeler;False;;Paul S. Fox and Thomas Little;
+233;1952;25;Viva Zapata!;Leland Fuller and Lyle R. Wheeler;False;;Claude E. Carpenter and Thomas Little;
+240;1953;26;Black-and-White;Black-and-White;False;;Black-and-White;
+246;1953;26;Color;Color;False;;Color;
+241;1953;26;Julius Caesar;Edward Carfagno and Cedric Gibbons;True;;Hugh Hunt and Edwin B. Willis;
+248;1953;26;Knights of the Round Table;Alfred Junge and Hans Peters;False;;John Jarvis;
+249;1953;26;Lili;Cedric Gibbons and Paul Groesse;False;;Arthur Krams and Edwin B. Willis;
+242;1953;26;Martin Luther;Paul Markwitz and Fritz Maurischat;False;;;
+244;1953;26;Roman Holiday;Hal Pereira and Walter H. Tyler;False;;;
+243;1953;26;The President's Lady;Leland Fuller and Lyle R. Wheeler;False;;Paul S. Fox;
+247;1953;26;The Robe;George Davis and Lyle R. Wheeler;True;;Paul S. Fox and Walter M. Scott;
+250;1953;26;The Story of Three Loves;E. Preston Ames, Edward Carfagno, Cedric Gibbons and Gabriel Scognamillo;False;;F. Keogh Gleason, Arthur Krams, Jack D. Moore and Edwin B. Willis;
+245;1953;26;Titanic;Maurice Ransford and Lyle R. Wheeler;False;;Stuart Reiss;
+251;1953;26;Young Bess;Cedric Gibbons and Urie McCleary;False;;Jack D. Moore and Edwin B. Willis;
+259;1954;27;20,000 Leagues Under the Sea;John Meehan;True;;Emile Kuri;
+263;1954;27;A Star Is Born;Malcolm Bert and Gene Allen;False;;Irene Sharaff and George James Hopkins;
+252;1954;27;Black-and-White;Black-and-White;False;;Black-and-White;
+260;1954;27;Brigadoon;Cedric Gibbons and E. Preston Ames;False;;Edwin B. Willis and F. Keogh Gleason;
+258;1954;27;Color;Color;False;;Color;
+261;1954;27;Desiree;Lyle R. Wheeler and Leland Fuller;False;;Walter M. Scott and Paul S. Fox;
+255;1954;27;Executive Suite;Cedric Gibbons and Edward Carfagno;False;;Edwin B. Willis and Emile Kuri;
+256;1954;27;Le Plaisir;Max Ophüls;False;;;
+253;1954;27;On the Waterfront;Richard Day;True;;;
+262;1954;27;Red Garters;Hal Pereira and Roland Anderson;False;;Samuel M. Comer and Ray Moyer;
+257;1954;27;Sabrina;Hal Pereira and Walter H. Tyler;False;;Samuel M. Comer and Ray Moyer;
+254;1954;27;The Country Girl;Roland Anderson and Hal Pereira;False;;Samuel M. Comer and Grace Gregory;
+264;1955;28;Black-and-White;Black-and-White;False;;Black-and-White;
+266;1955;28;Blackboard Jungle;Cedric Gibbons and Randall Duell;False;;Edwin B. Willis and Henry Grace;
+270;1955;28;Color;Color;False;;Color;
+272;1955;28;Daddy Long Legs;Lyle R. Wheeler and John DeCuir;False;;Walter M. Scott and Paul S. Fox;
+273;1955;28;Guys and Dolls;Oliver Smith and Joseph C. Wright;False;;Howard Bristol;
+267;1955;28;I'll Cry Tomorrow;Cedric Gibbons and Malcolm Brown;False;;Edwin B. Willis and Hugh Hunt;
+274;1955;28;Love Is a Many-Splendored Thing;Lyle R. Wheeler and George Davis;False;;Walter M. Scott and Jack Stubbs;
+269;1955;28;Marty;Edward S. Haworth and Walter M. Simonds;False;;Robert Priestley;
+271;1955;28;Picnic;William Flannery;True;;Jo Mielziner and Robert Priestley;
+268;1955;28;The Man with the Golden Arm;Joseph C. Wright;False;;Darrell Silvera;
+265;1955;28;The Rose Tattoo;Hal Pereira and Tambi Larsen;True;;Samuel M. Comer and Arthur Krams;
+275;1955;28;To Catch a Thief;Hal Pereira and Joseph McMillan Johnson;False;;Samuel M. Comer and Arthur Krams;
+284;1956;29;Around the World in 80 Days;James W. Sullivan and Ken Adam;False;;Ross J. Dowd;
+276;1956;29;Black-and-White;Black-and-White;False;;Black-and-White;
+282;1956;29;Color;Color;False;;Color;
+285;1956;29;Giant;Boris Leven;False;;Ralph S. Hurst;
+286;1956;29;Lust for Life;Cedric Gibbons and Hans Peters and E. Preston Ames;False;;Edwin B. Willis and F. Keogh Gleason;
+278;1956;29;Seven Samurai;So Matsuyama;False;;;
+277;1956;29;Somebody Up There Likes Me;Cedric Gibbons and Malcolm Brown;True;;Edwin B. Willis and F. Keogh Gleason;
+281;1956;29;Teenage Rebel;Lyle R. Wheeler and Jack Martin Smith;False;;Walter M. Scott and Stuart A. Reiss;
+283;1956;29;The King and I;Lyle R. Wheeler and John DeCuir;True;;Walter M. Scott and Paul S. Fox;
+279;1956;29;The Proud and Profane;Hal Pereira and A. Earl Hedrick;False;;Samuel M. Comer and Frank R. McKelvy;
+280;1956;29;The Solid Gold Cadillac;Ross Bellah;False;;William Kiernan and Louis Diage;
+287;1956;29;The Ten Commandments;Walter H. Tyler and Albert Nozaki;False;;Samuel M. Comer and Ray Moyer;
+290;1957;30;Funny Face;Hal Pereira and George Davis;False;;Samuel M. Comer and Ray Moyer;
+291;1957;30;Les Girls;William A. Horning and Gene Allen;False;;Edwin B. Willis and Richard Pefferle;
+292;1957;30;Pal Joey;Walter Holscher;False;;William Kiernan and Louis Diage;
+293;1957;30;Raintree County;William A. Horning and Urie McCleary;False;;Edwin B. Willis and Hugh Hunt;
+289;1957;30;Sayonara;Ted Haworth;True;;Robert Priestley;
+298;1958;31;A Certain Smile;Lyle R. Wheeler and John DeCuir;False;;Walter M. Scott and Paul S. Fox;
+296;1958;31;Auntie Mame;Malcolm Bert;False;;George James Hopkins;
+297;1958;31;Bell, Book and Candle;Cary Odell;False;;Louis Diage;
+295;1958;31;Gigi;William A. Horning (posthumous award) and E. Preston Ames;True;;Henry Grace and F. Keogh Gleason;
+299;1958;31;Vertigo;Hal Pereira and Henry Bumstead;False;;Samuel M. Comer and Frank McKelvy;
+307;1959;32;Ben-Hur;William A. Horning (posthumous award) and Edward Carfagno;True;;Hugh Hunt;
+300;1959;32;Black-and-White;Black-and-White;False;;Black-and-White;
+302;1959;32;Career;Hal Pereira and Walter H. Tyler;False;;Samuel M. Comer and Arthur Krams;
+306;1959;32;Color;Color;False;;Color;
+309;1959;32;Journey to the Center of the Earth;Lyle R. Wheeler, Franz Bachelin and Herman A. Blumenthal;False;;Walter M. Scott and Joseph Kish;
+310;1959;32;North by Northwest;William A. Horning (posthumous nomination), Robert F. Boyle and Merrill Pye;False;;Henry Grace and Frank McKelvy;
+311;1959;32;Pillow Talk;Richard H. Riedel (posthumous nomination);False;;Russell A. Gausman and Ruby R. Levitt;
+304;1959;32;Some Like It Hot;Ted Haworth;False;;Edward G. Boyle;
+305;1959;32;Suddenly, Last Summer;Oliver Messel and William Kellner;False;;Scott Slimon;
+308;1959;32;The Big Fisherman;John DeCuir;False;;Julia Heron;
+301;1959;32;The Diary of Anne Frank;Lyle R. Wheeler and George Davis;True;;Walter M. Scott and Stuart A. Reiss;
+303;1959;32;The Last Angry Man;Carl Anderson;False;;William Kiernan;
+312;1960;33;Black-and-White;Black-and-White;False;;Black-and-White;
+320;1960;33;Cimarron;George Davis and Addison Hehr;False;;Henry Grace, Hugh Hunt and Otto Siegel;
+318;1960;33;Color;Color;False;;Color;
+321;1960;33;It Started in Naples;Hal Pereira and Roland Anderson;False;;Samuel M. Comer and Arrigo Breschi;
+322;1960;33;Pepe;Ted Haworth;False;;William Kiernan;
+315;1960;33;Psycho;Joseph Hurley and Robert Clatworthy;False;;George Milo;
+316;1960;33;Sons and Lovers;Tom Morahan;False;;Lionel Couch;
+319;1960;33;Spartacus;Alexander Golitzen and Eric Orbom;True;;Russell A. Gausman and Julia Heron;
+323;1960;33;Sunrise at Campobello;Edward Carrere;False;;George James Hopkins;
+313;1960;33;The Apartment;Alexandre Trauner;True;;Edward G. Boyle;
+314;1960;33;The Facts of Life;Joseph McMillan Johnson and Kenneth A. Reid;False;;Ross Dowd;
+317;1960;33;Visit to a Small Planet;Hal Pereira and Walter Tyler;False;;Samuel M. Comer and Arthur Krams;
+324;1961;34;Black-and-White;Black-and-White;False;;Black-and-White;
+332;1961;34;Breakfast at Tiffany's;Hal Pereira and Roland Anderson;False;;Samuel M. Comer and Ray Moyer;
+330;1961;34;Color;Color;False;;Color;
+333;1961;34;El Cid;Veniero Colasanti and John Moore;False;;;
+334;1961;34;Flower Drum Song;Alexander Golitzen and Joseph C. Wright;False;;Howard Bristol;
+328;1961;34;Judgment at Nuremberg;Rudolph Sternad;False;;George Milo;
+329;1961;34;La Dolce Vita;Piero Gherardi;False;;;
+335;1961;34;Summer and Smoke;Hal Pereira and Walter Tyler;False;;Samuel M. Comer and Arthur Krams;
+326;1961;34;The Absent-Minded Professor;Carroll Clark;False;;Emile Kuri and Hal Gausman;
+327;1961;34;The Children's Hour;Fernando Carrere;False;;Edward G. Boyle;
+325;1961;34;The Hustler;Harry Horner;True;;Gene Callahan;
+331;1961;34;West Side Story;Boris Leven;True;;Victor A. Gangelin;
+336;1962;35;Black-and-White;Black-and-White;False;;Black-and-White;
+342;1962;35;Color;Color;False;;Color;
+338;1962;35;Days of Wine and Roses;Joseph C. Wright;False;;George James Hopkins;
+343;1962;35;Lawrence of Arabia;John Box and John Stoll;True;;Dario Simoni;
+345;1962;35;Mutiny on the Bounty;George Davis and Joseph McMillan Johnson;False;;Henry Grace and Hugh Hunt;
+340;1962;35;Period of Adjustment;George Davis and Edward Carfagno;False;;Henry Grace and Richard Pefferle;
+346;1962;35;That Touch of Mink;Alexander Golitzen and Robert Clatworthy;False;;George Milo;
+339;1962;35;The Longest Day;Ted Haworth, Léon Barsacq and Vincent Korda;False;;Gabriel Béchir;
+344;1962;35;The Music Man;Paul Groesse;False;;George James Hopkins;
+341;1962;35;The Pigeon That Took Rome;Hal Pereira and Roland Anderson;False;;Samuel M. Comer and Frank R. McKelvy;
+347;1962;35;The Wonderful World of the Brothers Grimm;George Davis and Edward Carfagno;False;;Henry Grace and Richard Pefferle;
+337;1962;35;To Kill a Mockingbird;Alexander Golitzen and Henry Bumstead;True;;Oliver Emert;
+350;1963;36;8½;Piero Gherardi;False;;;
+349;1963;36;America America;Gene Callahan;True;;;
+348;1963;36;Black-and-White;Black-and-White;False;;Black-and-White;
+355;1963;36;Cleopatra;John DeCuir, Jack Martin Smith, Hilyard M. Brown, Herman A. Blumenthal, Elven Webb, Maurice Pelling and Boris Juraga;True;;Walter M. Scott, Paul S. Fox and Ray Moyer;
+354;1963;36;Color;Color;False;;Color;
+357;1963;36;Come Blow Your Horn;Hal Pereira and Roland Anderson;False;;Samuel M. Comer and James W. Payne;
+358;1963;36;How the West Was Won;George Davis, William Ferrari (posthumous nomination) and Addison Hehr;False;;Henry Grace, Don Greenwood Jr. and Jack Mills;
+351;1963;36;Hud;Hal Pereira and Tambi Larsen;False;;Samuel M. Comer and Robert R. Benton;
+352;1963;36;Love with the Proper Stranger;Hal Pereira and Roland Anderson;False;;Samuel M. Comer and Grace Gregory;
+356;1963;36;The Cardinal;Lyle R. Wheeler;False;;Gene Callahan;
+359;1963;36;Tom Jones;Ralph W. Brinton, Jocelyn Herbert, and Ted Marshall;False;;Josie MacAvin;
+353;1963;36;Twilight of Honor;George Davis and Paul Groesse;False;;Henry Grace and Hugh Hunt;
+368;1964;37;Becket;John Bryan and Maurice Carter;False;;Patrick McLoughlin and Robert Cartwright;
+360;1964;37;Black-and-White;Black-and-White;False;;Black-and-White;
+366;1964;37;Color;Color;False;;Color;
+363;1964;37;Hush...Hush, Sweet Charlotte;William Glasgow;False;;Raphaël Bretton;
+369;1964;37;Mary Poppins;Carroll Clark and William H. Tuntke;False;;Emile Kuri and Hal Gausman;
+367;1964;37;My Fair Lady;Gene Allen and Cecil Beaton;True;;George James Hopkins;
+365;1964;37;Seven Days in May;Cary Odell;False;;Edward G. Boyle;
+362;1964;37;The Americanization of Emily;George Davis, Hans Peters and Elliot Scott;False;;Henry Grace and Robert R. Benton;
+364;1964;37;The Night of the Iguana;Stephen B. Grimes;False;;;
+370;1964;37;The Unsinkable Molly Brown;George Davis and E. Preston Ames;False;;Henry Grace and Hugh Hunt;
+371;1964;37;What a Way to Go!;Jack Martin Smith and Ted Haworth;False;;Walter M. Scott and Stuart A. Reiss;
+361;1964;37;Zorba the Greek;Vassilis Photopoulos;True;;;
+375;1965;38;A Patch of Blue;George Davis and Urie McCleary;False;;Henry Grace and Charles S. Thompson;
+372;1965;38;Black-and-White;Black-and-White;False;;Black-and-White;
+378;1965;38;Color;Color;False;;Color;
+379;1965;38;Doctor Zhivago;John Box and Terence Marsh;True;;Dario Simoni;
+382;1965;38;Inside Daisy Clover;Robert Clatworthy;False;;George James Hopkins;
+374;1965;38;King Rat;Robert Emmet Smith;False;;Frank Tuttle;
+373;1965;38;Ship of Fools;Robert Clatworthy;True;;Joseph Kish;
+380;1965;38;The Agony and the Ecstasy;John DeCuir and Jack Martin Smith;False;;Dario Simoni;
+381;1965;38;The Greatest Story Ever Told;Richard Day, William Creber and David S. Hall (posthumous nomination);False;;Ray Moyer and Fred M. MacLean and Norman Rockett;
+376;1965;38;The Slender Thread;Hal Pereira and Jack Poplin;False;;Robert R. Benton and Joseph Kish;
+383;1965;38;The Sound of Music;Boris Leven;False;;Walter M. Scott and Ruby Levitt;
+377;1965;38;The Spy Who Came In from the Cold;Hal Pereira and Tambi Larsen;False;;Ted Marshall and Josie MacAvin;
+384;1966;39;Black-and-White;Black-and-White;False;;Black-and-White;
+390;1966;39;Color;Color;False;;Color;
+391;1966;39;Fantastic Voyage;Jack Martin Smith and Dale Hennesy;True;;Walter M. Scott and Stuart A. Reiss;
+392;1966;39;Gambit;Alexander Golitzen and George C. Webb;False;;John McCarthy Jr. and John P. Austin;
+388;1966;39;Is Paris Burning?;Willy Holt;False;;Marc Frédérix and Pierre Guffroy;
+393;1966;39;Juliet of the Spirits;Piero Gherardi;False;;;
+389;1966;39;Mister Buddwing;George Davis and Paul Groesse;False;;Henry Grace and Hugh Hunt;
+386;1966;39;The Fortune Cookie;Robert Luthardt;False;;Edward G. Boyle;
+387;1966;39;The Gospel According to St. Matthew;Luigi Scaccianoce;False;;;
+394;1966;39;The Oscar;Hal Pereira and Arthur Lonergan;False;;Robert R. Benton and James W. Payne;
+395;1966;39;The Sand Pebbles;Boris Leven;False;;Walter M. Scott, John Sturtevant and William Kiernan;
+385;1966;39;Who's Afraid of Virginia Woolf?;Richard Sylbert;True;;George James Hopkins;
+397;1967;40;Camelot;John Truscott and Edward Carrere;True;;John W. Brown;
+398;1967;40;Doctor Dolittle;Mario Chiari, Jack Martin Smith and Ed Graves;False;;Walter M. Scott and Stuart A. Reiss;
+399;1967;40;Guess Who's Coming to Dinner;Robert Clatworthy;False;;Frank Tuttle;
+400;1967;40;The Taming of the Shrew;Renzo Mongiardino, John DeCuir, Elven Webb and Giuseppe Mariani;False;;Dario Simoni and Luigi Gervasi;
+401;1967;40;Thoroughly Modern Millie;Alexander Golitzen and George C. Webb;False;;Howard Bristol;
+404;1968;41;2001: A Space Odyssey;Anthony Masters, Harry Lange and Ernest Archer;False;;;
+403;1968;41;Oliver!;John Box and Terence Marsh;True;;Vernon Dixon and Ken Muggleston;
+406;1968;41;Star!;Boris Leven;False;;Walter M. Scott and Howard Bristol;
+405;1968;41;The Shoes of the Fisherman;George Davis and Edward Carfagno;False;;;
+407;1968;41;War and Peace;Mikhail Bogdanov and Gennady Myasnikov;False;;Georgi Koshelev and Vladimir Uvarov;
+410;1969;42;Anne of the Thousand Days;Maurice Carter and Lionel Couch;False;;Patrick McLoughlin;
+411;1969;42;Gaily, Gaily;Robert F. Boyle and George B. Chan;False;;Edward G. Boyle and Carl Biddiscombe;
+409;1969;42;Hello, Dolly!;John DeCuir, Jack Martin Smith and Herman A. Blumenthal;True;;Walter M. Scott, George James Hopkins and Raphaël Bretton;
+412;1969;42;Sweet Charity;Alexander Golitzen and George C. Webb;False;;Jack D. Moore;
+413;1969;42;They Shoot Horses, Don't They?;Harry Horner;False;;Frank R. McKelvy;
+416;1970;43;Airport;Alexander Golitzen and E. Preston Ames;False;;Jack D. Moore and Mickey S. Michaels;
+415;1970;43;Patton;Urie McCleary and Gil Parrondo;True;;Antonio Mateos and Pierre-Louis Thévenet;
+418;1970;43;Scrooge;Terence Marsh and Robert Cartwright;False;;Pamela Cornell;
+417;1970;43;The Molly Maguires;Tambi Larsen;False;;Darrell Silvera;
+419;1970;43;Tora! Tora! Tora!;Jack Martin Smith, Yoshirō Muraki, Richard Day and Taizô Kawashima;False;;Walter M. Scott, Norman Rockett and Carl Biddiscombe;
+423;1971;44;Bedknobs and Broomsticks;John B. Mansbridge and Peter Ellenshaw;False;;Emile Kuri and Hal Gausman;
+424;1971;44;Fiddler on the Roof;Robert F. Boyle and Michael Stringer;False;;Peter Lamont;
+425;1971;44;Mary, Queen of Scots;Terence Marsh and Robert Cartwright;False;;Peter Howitt;
+421;1971;44;Nicholas and Alexandra;John Box, Ernest Archer, Jack Maxsted and Gil Parrondo;True;;Vernon Dixon;
+422;1971;44;The Andromeda Strain;Boris Leven and William H. Tuntke;False;;Ruby Levitt;
+427;1972;45;Cabaret;Rolf Zehetbauer and Hans Jürgen Kiebach;True;;Herbert Strabel;
+428;1972;45;Lady Sings the Blues;Carl Anderson;False;;Reg Allen;
+429;1972;45;The Poseidon Adventure;William Creber;False;;Raphaël Bretton;
+430;1972;45;Travels with My Aunt;John Box, Gil Parrondo and Robert W. Laing;False;;;
+431;1972;45;Young Winston;Donald M. Ashton and Geoffrey Drake;False;;John Graysmark, William Hutchinson and Peter James;
+434;1973;46;Brother Sun, Sister Moon;Lorenzo Mongiardino and Gianni Quaranta;False;;Carmelo Patrono;
+435;1973;46;The Exorcist;Bill Malley;False;;Jerry Wunderlich;
+433;1973;46;The Sting;Henry Bumstead;True;;James W. Payne;
+437;1973;46;The Way We Were;Stephen B. Grimes;False;;William Kiernan (posthumous nomination);
+436;1973;46;Tom Sawyer;Philip M. Jefferies;False;;Robert De Vestel;
+440;1974;47;Chinatown;Richard Sylbert and W. Stewart Campbell;False;;Ruby Levitt;
+441;1974;47;Earthquake;Alexander Golitzen and E. Preston Ames;False;;Frank R. McKelvy;
+439;1974;47;The Godfather Part II;Dean Tavoularis and Angelo P. Graham;True;;George R. Nelson;
+442;1974;47;The Island at the Top of the World;Peter Ellenshaw, John B. Mansbridge, Walter Tyler and Al Roelofs;False;;Hal Gausman;
+443;1974;47;The Towering Inferno;William Creber and Ward Preston;False;;Raphaël Bretton;
+445;1975;48;Barry Lyndon;Ken Adam and Roy Walker;True;;Vernon Dixon;
+448;1975;48;Shampoo;Richard Sylbert and W. Stewart Campbell;False;;George Gaines;
+446;1975;48;The Hindenburg;Edward Carfagno;False;;Frank R. McKelvy;
+447;1975;48;The Man Who Would Be King;Alexandre Trauner and Tony Inglis;False;;Peter James;
+449;1975;48;The Sunshine Boys;Albert Brenner;False;;Marvin March;
+451;1976;49;All the President's Men;George Jenkins;True;;George Gaines;
+454;1976;49;Logan's Run;Dale Hennesy;False;;Robert De Vestel;
+452;1976;49;The Incredible Sarah;Elliot Scott;False;;Norman Reynolds;
+453;1976;49;The Last Tycoon;Gene Callahan and Jack T. Collis;False;;Jerry Wunderlich;
+455;1976;49;The Shootist;Robert F. Boyle;False;;Arthur Jeph Parker;
+458;1977;50;Airport '77;George C. Webb;False;;Mickey S. Michaels;
+459;1977;50;Close Encounters of the Third Kind;Joe Alves and Dan Lomino;False;;Phil Abramson;
+457;1977;50;Star Wars;John Barry, Norman Reynolds and Leslie Dilley;True;;Roger Christian;
+460;1977;50;The Spy Who Loved Me;Ken Adam and Peter Lamont;False;;Hugh Scaife;
+461;1977;50;The Turning Point;Albert Brenner;False;;Marvin March;
+465;1978;51;California Suite;Albert Brenner;False;;Marvin March;
+463;1978;51;Heaven Can Wait;Paul Sylbert and Edwin O'Donovan;True;;George Gaines;
+466;1978;51;Interiors;Mel Bourne;False;;Daniel Robert;
+464;1978;51;The Brink's Job;Dean Tavoularis and Angelo P. Graham;False;;George R. Nelson and Bruce Kay;
+467;1978;51;The Wiz;Tony Walton and Philip Rosenberg;False;;Edward Stewart and Robert Drumheller;
+470;1979;52;Alien;Michael Seymour, Leslie Dilley and Roger Christian;False;;Ian Whittaker;
+469;1979;52;All That Jazz;Philip Rosenberg and Tony Walton;True;;Edward Stewart and Gary J. Brink;
+471;1979;52;Apocalypse Now;Dean Tavoularis and Angelo P. Graham;False;;George R. Nelson;
+473;1979;52;Star Trek: The Motion Picture;Harold Michelson, Joe Jennings, Leon Harris and John Vallone;False;;Linda DeScenna;
+472;1979;52;The China Syndrome;George Jenkins;False;;Arthur Jeph Parker;
+476;1980;53;Coal Miner's Daughter;John W. Corso;False;;John M. Dwyer;
+479;1980;53;Kagemusha;Yoshirō Muraki;False;;;
+478;1980;53;Star Wars: Episode V – The Empire Strikes Back;Norman Reynolds, Leslie Dilley, Harry Lange and Alan Tomkins;False;;Michael D. Ford;
+475;1980;53;Tess;Pierre Guffroy and Jack Stephens;True;;;
+477;1980;53;The Elephant Man;Stuart Craig and Robert Cartwright;False;;Hugh Scaife;
+483;1981;54;Heaven's Gate;Tambi Larsen;False;;James L. Berkey;
+484;1981;54;Ragtime;John Graysmark, Patrizia von Brandenstein and Tony Reading;False;;George DeTitta Sr., George DeTitta Jr. and Peter Howitt;
+481;1981;54;Raiders of the Lost Ark;Norman Reynolds and Leslie Dilley;True;;Michael D. Ford;
+485;1981;54;Reds;Richard Sylbert;False;;Michael Seirton;
+482;1981;54;The French Lieutenant's Woman;Assheton Gorton;False;;Ann Mollo;
+488;1982;55;Annie;Dale Hennesy (posthumous nomination);False;;Marvin March;
+489;1982;55;Blade Runner;Lawrence G. Paull and David L. Snyder;False;;Linda DeScenna;
+487;1982;55;Gandhi;Stuart Craig and Robert W. Laing;True;;Michael Seirton;
+490;1982;55;La Traviata;Franco Zeffirelli and Gianni Quaranta;False;;;
+491;1982;55;Victor/Victoria;Rodger Maus, Tim Hutchinson and William Craig Smith;False;;Harry Cordwell;
+493;1983;56;Fanny and Alexander;Anna Asp;True;;;
+494;1983;56;Return of the Jedi;Norman Reynolds, Fred Hole and James L. Schoppe;False;;Michael D. Ford;
+496;1983;56;Terms of Endearment;Polly Platt and Harold Michelson;False;;Tom Pedigo and Anthony Mondell;
+495;1983;56;The Right Stuff;Geoffrey Kirkland, Richard Lawrence, W. Stewart Campbell and Peter R. Romero;False;;Jim Poynter and George R. Nelson;
+497;1983;56;Yentl;Roy Walker and Leslie Tomkins;False;;Tessa Davies;
+500;1984;57;2010;Albert Brenner;False;;Rick Simpson;
+503;1984;57;A Passage to India;John Box;False;;Hugh Scaife;
+499;1984;57;Amadeus;Patrizia von Brandenstein and Karel Černý;True;;;
+501;1984;57;The Cotton Club;Richard Sylbert;False;;George Gaines;
+502;1984;57;The Natural;Mel Bourne and Angelo P. Graham;False;;Bruce Weintraub;
+506;1985;58;Brazil;Norman Garwood;False;;Maggie Gray;
+505;1985;58;Out of Africa;Stephen B. Grimes;True;;Josie MacAvin;
+508;1985;58;Ran;Yoshirō Muraki and Shinobu Muraki;False;;;
+507;1985;58;The Color Purple;J. Michael Riva and Bo Welch;False;;Linda DeScenna;
+509;1985;58;Witness;Stan Jolley;False;;John H. Anderson;
+511;1986;59;A Room with a View;Gianni Quaranta and Brian Ackland-Snow;True;;Brian Savegar and Elio Altramura;
+512;1986;59;Aliens;Peter Lamont;False;;Crispian Sallis;
+514;1986;59;Hannah and Her Sisters;Stuart Wurtzel;False;;Carol Joffe;
+513;1986;59;The Color of Money;Boris Leven;False;;Karen O'Hara;
+515;1986;59;The Mission;Stuart Craig;False;;Jack Stephens;
+518;1987;60;Empire of the Sun;Norman Reynolds;False;;Harry Cordwell;
+519;1987;60;Hope and Glory;Anthony Pratt;False;;Joanne Woollard;
+520;1987;60;Radio Days;Santo Loquasto;False;;Carol Joffe, Leslie Bloom and George DeTitta Jr.;
+517;1987;60;The Last Emperor;Ferdinando Scarfiotti;True;;Bruno Cesari and Osvaldo Desideri;
+521;1987;60;The Untouchables;Patrizia von Brandenstein and William A. Elliott;False;;Hal Gausman;
+524;1988;61;Beaches;Albert Brenner;False;;Garrett Lewis;
+523;1988;61;Dangerous Liaisons;Stuart Craig;True;;Gérard James;
+525;1988;61;Rain Man;Ida Random;False;;Linda DeScenna;
+526;1988;61;Tucker: The Man and His Dream;Dean Tavoularis;False;;Armin Ganz;
+527;1988;61;Who Framed Roger Rabbit;Elliot Scott;False;;Peter Howitt;
+529;1989;62;Batman;Anton Furst;True;;Peter Young;
+532;1989;62;Driving Miss Daisy;Bruno Rubeo;False;;Crispian Sallis;
+533;1989;62;Glory;Norman Garwood;False;;Garrett Lewis;
+530;1989;62;The Abyss;Leslie Dilley;False;;Anne Kuljian;
+531;1989;62;The Adventures of Baron Munchausen;Dante Ferretti;False;;Francesca Lo Schiavo;
+536;1990;63;Cyrano de Bergerac;Ezio Frigerio;False;;Jacques Rouxel;
+537;1990;63;Dances with Wolves;Jeffrey Beecroft;False;;Lisa Dean;
+535;1990;63;Dick Tracy;Richard Sylbert;True;;Rick Simpson;
+539;1990;63;Hamlet;Dante Ferretti;False;;Francesca Lo Schiavo;
+538;1990;63;The Godfather Part III;Dean Tavoularis;False;;Gary Fettis;
+542;1991;64;Barton Fink;Dennis Gassner;False;;Nancy Haigh;
+541;1991;64;Bugsy;Dennis Gassner;True;;Nancy Haigh;
+544;1991;64;Hook;Norman Garwood;False;;Garrett Lewis;
+543;1991;64;The Fisher King;Mel Bourne;False;;Cindy Carr;
+545;1991;64;The Prince of Tides;Paul Sylbert;False;;Caryl Heller;
+548;1992;65;Bram Stoker's Dracula;Thomas E. Sanders;False;;Garrett Lewis;
+549;1992;65;Chaplin;Stuart Craig;False;;Chris A. Butler;
+547;1992;65;Howards End;Luciana Arrighi;True;;Ian Whittaker;
+550;1992;65;Toys;Ferdinando Scarfiotti;False;;Linda DeScenna;
+551;1992;65;Unforgiven;Henry Bumstead;False;;Janice Blackie-Goodine;
+554;1993;66;Addams Family Values;Ken Adam;False;;Marvin March;
+556;1993;66;Orlando;Ben Van Os and Jan Roelfs;False;;;
+553;1993;66;Schindler's List;Allan Starski;True;;Ewa Braun;
+555;1993;66;The Age of Innocence;Dante Ferretti;False;;Robert J. Franco;
+557;1993;66;The Remains of the Day;Luciana Arrighi;False;;Ian Whittaker;
+560;1994;67;Bullets over Broadway;Santo Loquasto;False;;Susan Bode;
+561;1994;67;Forrest Gump;Rick Carter;False;;Nancy Haigh;
+562;1994;67;Interview with the Vampire;Dante Ferretti;False;;Francesca Lo Schiavo;
+563;1994;67;Legends of the Fall;Lilly Kilvert;False;;Dorree Cooper;
+559;1994;67;The Madness of King George;Ken Adam;True;;Carolyn Scott;
+568;1995;68;A Little Princess;Bo Welch;False;;Cheryl Carasik;
+566;1995;68;Apollo 13;Michael Corenblith;False;;Merideth Boswell;
+567;1995;68;Babe;Roger Ford;False;;Kerrie Brown;
+565;1995;68;Restoration;Eugenio Zanetti;True;;;
+569;1995;68;Richard III;Tony Burrough;False;;;
+573;1996;69;Evita;Brian Morris;False;;Philippe Turlure;
+574;1996;69;Hamlet;Tim Harvey;False;;;
+575;1996;69;Romeo + Juliet;Catherine Martin;False;;Brigitte Broch;
+572;1996;69;The Birdcage;Bo Welch;False;;Cheryl Carasik;
+571;1996;69;The English Patient;Stuart Craig;True;;Stephenie McMillan;
+578;1997;70;Gattaca;Jan Roelfs;False;;Nancy Nye;
+579;1997;70;Kundun;Dante Ferretti;False;;Francesca Lo Schiavo;
+580;1997;70;L.A. Confidential;Jeannine Oppewall;False;;Jay Hart;
+581;1997;70;Men in Black;Bo Welch;False;;Cheryl Carasik;
+577;1997;70;Titanic;Peter Lamont;True;;Michael D. Ford;
+584;1998;71;Elizabeth;John Myhre;False;;Peter Howitt;
+585;1998;71;Pleasantville;Jeannine Oppewall;False;;Jay Hart;
+586;1998;71;Saving Private Ryan;Tom Sanders;False;;Lisa Dean Kavanaugh;
+583;1998;71;Shakespeare in Love;Martin Childs;True;;Jill Quertier;
+587;1998;71;What Dreams May Come;Eugenio Zanetti;False;;Cindy Carr;
+590;1999;72;Anna and the King;Luciana Arrighi;False;;Ian Whittaker;
+589;1999;72;Sleepy Hollow;Rick Heinrichs;True;;Peter Young;
+591;1999;72;The Cider House Rules;David Gropman;False;;Beth Rubino;
+592;1999;72;The Talented Mr. Ripley;Roy Walker;False;;Bruno Cesari;
+593;1999;72;Topsy-Turvy;Eve Stewart;False;;John Bush;
+595;2000;73;Crouching Tiger, Hidden Dragon;Timmy Yip;True;;;
+596;2000;73;Gladiator;Arthur Max;False;;Crispian Sallis;
+597;2000;73;How the Grinch Stole Christmas;Michael Corenblith;False;;Merideth Boswell;
+598;2000;73;Quills;Martin Childs;False;;Jill Quertier;
+599;2000;73;Vatel;Jean Rabasse;False;;Françoise Benoît-Fresco;
+602;2001;74;Amélie;Aline Bonetto;False;;Marie-Laure Valla;
+603;2001;74;Gosford Park;Stephen Altman;False;;Anna Pinnock;
+604;2001;74;Harry Potter and the Sorcerer's Stone;Stuart Craig;False;;Stephenie McMillan;
+601;2001;74;Moulin Rouge!;Catherine Martin;True;;Brigitte Broch;
+605;2001;74;The Lord of the Rings: The Fellowship of the Ring;Grant Major;False;;Dan Hennah;
+607;2002;75;Chicago;John Myhre;True;;Gordon Sim;
+608;2002;75;Frida;Felipe Fernández del Paso;False;;Hania Robledo;
+609;2002;75;Gangs of New York;Dante Ferretti;False;;Francesca Lo Schiavo;
+611;2002;75;Road to Perdition;Dennis Gassner;False;;Nancy Haigh;
+610;2002;75;The Lord of the Rings: The Two Towers;Grant Major;False;;Dan Hennah and Alan Lee;
+614;2003;76;Girl with a Pearl Earring;Ben Van Os;False;;Cecile Heideman;
+616;2003;76;Master and Commander: The Far Side of the World;William Sandell;False;;Robert Gould;
+617;2003;76;Seabiscuit;Jeannine Oppewall;False;;Leslie Pope;
+615;2003;76;The Last Samurai;Lilly Kilvert;False;;Gretchen Rau;
+613;2003;76;The Lord of the Rings: The Return of the King;Grant Major;True;;Dan Hennah and Alan Lee;
+623;2004;77;A Very Long Engagement;Aline Bonetto;False;;;
+620;2004;77;Finding Neverland;Gemma Jackson;False;;Trisha Edwards;
+621;2004;77;Lemony Snicket's A Series of Unfortunate Events;Rick Heinrichs;False;;Cheryl Carasik;
+619;2004;77;The Aviator;Dante Ferretti;True;;Francesca Lo Schiavo;
+622;2004;77;The Phantom of the Opera;Anthony Pratt;False;;Celia Bobak;
+626;2005;78;Good Night, and Good Luck;Jim Bissell;False;;Jan Pascale;
+627;2005;78;Harry Potter and the Goblet of Fire;Stuart Craig;False;;Stephenie McMillan;
+628;2005;78;King Kong;Grant Major;False;;Dan Hennah and Simon Bright;
+625;2005;78;Memoirs of a Geisha;John Myhre;True;;Gretchen Rau;
+629;2005;78;Pride & Prejudice;Sarah Greenwood;False;;Katie Spencer;
+632;2006;79;Dreamgirls;John Myhre;False;;Nancy Haigh;
+631;2006;79;Pan's Labyrinth;Eugenio Caballero;True;;Pilar Revuelta;
+634;2006;79;Pirates of the Caribbean: Dead Man's Chest;Rick Heinrichs;False;;Cheryl Carasik;
+633;2006;79;The Good Shepherd;Jeannine Claudia Oppewall;False;;Gretchen Rau and Leslie E. Rollins;
+635;2006;79;The Prestige;Nathan Crowley;False;;Julie Ochipinti;
+638;2007;80;American Gangster;Arthur Max;False;;Beth A. Rubino;
+639;2007;80;Atonement;Sarah Greenwood;False;;Katie Spencer;
+637;2007;80;Sweeney Todd: The Demon Barber of Fleet Street;Dante Ferretti;True;;Francesca Lo Schiavo;
+640;2007;80;The Golden Compass;Dennis Gassner;False;;Anna Pinnock;
+641;2007;80;There Will Be Blood;Jack Fisk;False;;Jim Erickson;
+644;2008;81;Changeling;James J. Murakami;False;;Gary Fettis;
+647;2008;81;Revolutionary Road;Kristi Zea;False;;Debra Schutt;
+643;2008;81;The Curious Case of Benjamin Button;Donald Graham Burt;True;;Victor J. Zolfo;
+645;2008;81;The Dark Knight;Nathan Crowley;False;;Peter Lando;
+646;2008;81;The Duchess;Michael Carlin;False;;Rebecca Alleway;
+649;2009;82;Avatar;Rick Carter and Robert Stromberg;True;;Kim Sinclair;
+651;2009;82;Nine;John Myhre;False;;Gordon Sim;
+652;2009;82;Sherlock Holmes;Sarah Greenwood;False;;Katie Spencer;
+650;2009;82;The Imaginarium of Doctor Parnassus;Dave Warren and Anastasia Masaro;False;;Caroline Smith;
+653;2009;82;The Young Victoria;Patrice Vermette;False;;Maggie Gray;
+655;2010;83;Alice in Wonderland;;True;;Karen O'Hara;Robert Stromberg
+656;2010;83;Harry Potter and the Deathly Hallows – Part 1;;False;;Stephenie McMillan;Stuart Craig
+657;2010;83;Inception;;False;;Larry Dias and Doug Mowat;Guy Hendrix Dyas
+658;2010;83;The King's Speech;;False;;Judy Farr;Eve Stewart
+659;2010;83;True Grit;;False;;Nancy Haigh;Jess Gonchor
+663;2011;84;Harry Potter and the Deathly Hallows – Part 2;;False;;Stephenie McMillan;Stuart Craig
+661;2011;84;Hugo;;True;;Francesca Lo Schiavo;Dante Ferretti
+664;2011;84;Midnight in Paris;;False;;Hélène Dubreuil;Anne Seibel
+662;2011;84;The Artist;;False;;Robert Gould;Laurence Bennett
+665;2011;84;War Horse;;False;;Lee Sandales;Rick Carter
+668;2012;85;Anna Karenina;;False;;Katie Spencer;Sarah Greenwood
+670;2012;85;Les Misérables;;False;;Anna Lynch-Robinson;Eve Stewart
+671;2012;85;Life of Pi;;False;;Anna Pinnock;David Gropman
+667;2012;85;Lincoln;;True;;Jim Erickson;Rick Carter
+669;2012;85;The Hobbit: An Unexpected Journey;;False;;Ra Vincent and Simon Bright;Dan Hennah
+674;2013;86;12 Years a Slave;;False;;Alice Baker;Adam Stockhausen
+675;2013;86;American Hustle;;False;;Heather Loeffler;Judy Becker
+676;2013;86;Gravity;;False;;Rosie Goodwin and Joanne Woollard;Andy Nicholson
+677;2013;86;Her;;False;;Gene Serdena;K. K. Barrett
+673;2013;86;The Great Gatsby;;True;;Beverley Dunn;Catherine Martin
+681;2014;87;Interstellar;;False;;Gary Fettis;Nathan Crowley
+682;2014;87;Into the Woods;;False;;Anna Pinnock;Dennis Gassner
+683;2014;87;Mr. Turner;;False;;Charlotte Watts;Suzie Davies
+679;2014;87;The Grand Budapest Hotel;;True;;Anna Pinnock;Adam Stockhausen
+680;2014;87;The Imitation Game;;False;;Tatiana Macdonald;Maria Djurkovic
+686;2015;88;Bridge of Spies;;False;;Rena DeAngelo and Bernhard Henrich;Adam Stockhausen
+685;2015;88;Mad Max: Fury Road;;True;;Lisa Thompson;Colin Gibson
+687;2015;88;The Danish Girl;;False;;Michael Standish;Eve Stewart
+688;2015;88;The Martian;;False;;Celia Bobak;Arthur Max
+689;2015;88;The Revenant;;False;;Hamish Purdy;Jack Fisk
+692;2016;89;Arrival;;False;;Paul Hotte;Patrice Vermette
+693;2016;89;Fantastic Beasts and Where to Find Them;;False;;Anna Pinnock;Stuart Craig
+694;2016;89;Hail, Caesar!;;False;;Nancy Haigh;Jess Gonchor
+691;2016;89;La La Land;;True;;Sandy Reynolds-Wasco;David Wasco
+695;2016;89;Passengers;;False;;Gene Serdena;Guy Hendrix Dyas
+698;2017;90;Beauty and the Beast;;False;;Katie Spencer;Sarah Greenwood
+699;2017;90;Blade Runner 2049;;False;;Alessandra Querzola;Dennis Gassner
+700;2017;90;Darkest Hour;;False;;Katie Spencer;Sarah Greenwood
+701;2017;90;Dunkirk;;False;;Gary Fettis;Nathan Crowley
+697;2017;90;The Shape of Water;;True;;Shane Vieau and Jeff Melvin;Paul Denham Austerberry
+703;2018;91;Black Panther;;True;;Jay Hart;Hannah Beachler
+705;2018;91;First Man;;False;;Kathy Lucas;Nathan Crowley
+706;2018;91;Mary Poppins Returns;;False;;Gordon Sim;John Myhre
+707;2018;91;Roma;;False;;Bárbara Enrı́quez;Eugenio Caballero
+704;2018;91;The Favourite;;False;;Alice Felton;Fiona Crombie
+712;2019;92;1917;;False;;Lee Sandales;Dennis Gassner
+711;2019;92;Jojo Rabbit;;False;;Nora Sopková;Ra Vincent
+709;2019;92;Once Upon a Time in Hollywood;;True;;Nancy Haigh;Barbara Ling
+713;2019;92;Parasite;;False;;Cho Won-woo;Lee Ha-jun
+710;2019;92;The Irishman;;False;;Regina Graves;Bob Shaw
+717;2020;93;Ma Rainey's Black Bottom;;False;;Karen O'Hara and Diana Stoughton;Mark Ricker
+715;2020;93;Mank;;True;;Jan Pascale;Donald Graham Burt
+718;2020;93;News of the World;;False;;Elizabeth Keenan;David Crank
+719;2020;93;Tenet;;False;;Kathy Lucas;Nathan Crowley
+716;2020;93;The Father;;False;;Cathy Featherstone;Peter Francis
+721;2021;94;Dune;;True;;Zsuzsanna Sipos;Patrice Vermette
+722;2021;94;Nightmare Alley;;False;;Shane Vieau;Tamara Deverell
+723;2021;94;The Power of the Dog;;False;;Amber Richards;Grant Major
+724;2021;94;The Tragedy of Macbeth;;False;;Nancy Haigh;Stefan Dechant
+725;2021;94;West Side Story;;False;;Rena DeAngelo;Adam Stockhausen
+727;2022;95;All Quiet on the Western Front;;True;;Ernestine Hipper;Christian M. Goldbeck
+728;2022;95;Avatar: The Way of Water;;False;;Vanessa Cole;Dylan Cole and Ben Procter
+729;2022;95;Babylon;;False;;Anthony Carlino;Florencia Martin
+730;2022;95;Elvis;;False;;Bev Dunn;Catherine Martin and Karen Murphy
+731;2022;95;The Fabelmans;;False;;Karen O'Hara;Rick Carter
+733;2023;96;Barbie;;False;;Katie Spencer;Sarah Greenwood
+734;2023;96;Killers of the Flower Moon;;False;;Adam Willis;Jack Fisk
+735;2023;96;Napoleon;;False;;Elli Griff;Arthur Max
+736;2023;96;Oppenheimer;;False;;Claire Kaufman;Ruth De Jong
+737;2023;96;Poor Things;;False;;Zsuzsa Mihalek;James Price and Shona Heath
